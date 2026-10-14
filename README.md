@@ -70,11 +70,11 @@ The solution follows a layered architecture.
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Melikeozogul/ECommerceAPI
 cd ECommerceAPI
 ```
 
-Replace `<YOUR_REPOSITORY_URL>` with your GitHub repository URL.
+Replace `https://github.com/Melikeozogul/ECommerceAPI` with your GitHub repository URL.
 
 ### 2. Configure the Database
 
